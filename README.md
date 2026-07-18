@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=4&section=header"/>
+
+<table>
+<tr>
+<td width="600" valign="top">
+
+```
+┌─[ VISUAL_MAP ]─────────────────────────────────┐
+```
+
 <pre>
 KKKKKKKKKKKKKKKKKKKKKKKKKKKKXXKKXKKKKKKKKKKKKKKKKKKKKKKKKKKK
 KKKKKKKKKKKKKXXKKXKKXXXXK0Oxxddddxk0KXXXKKKKKKKKKKKKKKKKKKKK
@@ -34,116 +44,117 @@ K0c.              ..    ..:0NWWWWXd'  .                  :0K
 </pre>
 
 ```
-    ╔╦╗┬┌┬┐┬ ┬┬┌┐┌  ╦═╗┌─┐ ┬  ╔╦╗
-     ║││ │││ │││││  ╠╦╝├─┤ │  ║║
-    ─┴┘┴─┴┘└─┘┴┘└┘  ╩╚═┴ ┴o┴─┘╩ ╩
+└─────────────────────────────────────────────────┘
 ```
-
-# whoami
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Nidhin+Raj+M;Full-Stack+Developer;Building+things+that+matter;print(%22Hello%2C+World!%22)" alt="Typing SVG" />
-
-[![GitHub followers](https://img.shields.io/github/followers/nidhinrajm55-sudo?label=follow&style=for-the-badge&color=00FF41&logo=github)](https://github.com/nidhinrajm55-sudo)
-
-</div>
-
----
-
-### `> cat about_me.txt`
-
-```bash
-$ whoami
-Nidhin Raj M — Developer who ships code, not excuses.
-
-$ status --current
-Building full-stack apps that solve real problems —
-from disaster response tools to healthcare platforms.
-
-$ mindset
-Learning fast. Breaking things on purpose (in dev, not prod).
-```
-
----
-
-### `> ls -la tech_stack/`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
-
-</div>
-
----
-
-### `> ./run --featured-projects`
-
-<table align="center">
-<tr>
-<td width="50%">
-
-**🩺 [Kadhali Healthcare Website](https://github.com/nidhinrajm55-sudo/Kadhali-Healthcare-Website)**
-
-Healthcare platform with a **Medibot** for disease info and a **PDF uploader** that scans and analyzes medical reports.
-
-`JavaScript`
 
 </td>
-<td width="50%">
+<td width="480" valign="top">
 
-**🚨 [SilentSignal](https://github.com/nidhinrajm55-sudo/SilentSignal)**
-
-App + website built for **disaster management** — connecting people when it matters most.
-
-`Batchfile`
+```
+┌─[ SYSTEM_INFO ]────────────────────┐
+│                                     │
+│  SYSTEM STATUS ......... ONLINE ✓  │
+│                                     │
+│  CORE LANGUAGES                    │
+│    > Python                        │
+│    > JavaScript                    │
+│                                     │
+│  FRONTEND FRAMEWORK                │
+│    > React                         │
+│                                     │
+│  BACKEND / RUNTIME                 │
+│    > Node.js                       │
+│                                     │
+│  TOOLCHAIN                         │
+│    > Docker                        │
+│    > Git                           │
+│                                     │
+└─────────────────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=NIDHIN+RAJ+M;Full-Stack+Developer;%3E+sudo+access+granted" alt="Typing SVG"/>
 
-### `> curl github-stats/nidhinrajm55-sudo`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nidhinrajm55-sudo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinrajm55-sudo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinrajm55-sudo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="48%" />
+<img src="https://img.shields.io/github/followers/nidhinrajm55-sudo?label=FOLLOWERS&style=for-the-badge&color=39FF14&labelColor=0D1117&logo=github&logoColor=39FF14"/>
+<img src="https://komarev.com/ghpvc/?username=nidhinrajm55-sudo&label=PROFILE+VIEWS&style=for-the-badge&color=00FFFF&labelColor=0D1117"/>
 
 </div>
 
----
-
-### `> ping social_links`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=4"/>
 
 <div align="center">
 
-<!--
-  Add your real links below and remove this comment.
-  Swap YOUR_USERNAME / YOUR_EMAIL for your actual handles.
--->
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/nidhinrajm55-sudo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOUR_EMAIL@gmail.com)
+## `[ PINNED ]`
 
 </div>
 
----
-
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ```
-> process exited with code 0
-> thanks for stopping by
+┌─[ ALGORITHM_REPOSITORY ]───────────┐
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=nidhinrajm55-sudo&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+**[Kadhali-Healthcare-Website](https://github.com/nidhinrajm55-sudo/Kadhali-Healthcare-Website)**
+
+Healthcare platform with a **Medibot** AI assistant for disease info and a **PDF uploader** that scans and analyzes medical reports.
+
+`JavaScript`
+
+```
+└─────────────────────────────────────┘
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+┌─[ DASHBOARD_FRAMEWORK ]────────────┐
+```
+
+**[SilentSignal](https://github.com/nidhinrajm55-sudo/SilentSignal)**
+
+App + website built for **disaster management** — keeping people connected when it matters most.
+
+`Batchfile`
+
+```
+└─────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=4"/>
+
+<div align="center">
+
+## `[ RUNTIME_ANALYTICS ]`
+
+<img src="https://github-readme-stats.vercel.app/api?username=nidhinrajm55-sudo&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FFFF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinrajm55-sudo&theme=nightowl&hide_border=true&background=0D1117&ring=39FF14&fire=00FFFF&currStreakLabel=39FF14" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinrajm55-sudo&theme=synthwave&hide_border=true&bg_color=0D1117&color=39FF14&line=00FFFF&point=39FF14" width="90%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=4"/>
+
+<div align="center">
+
+## `[ SOCIAL_LINKS ]`
+
+<!-- Replace YOUR_USERNAME / YOUR_EMAIL below with your real handles -->
+
+<a href="https://github.com/nidhinrajm55-sudo"><img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-FFFF00?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00FFFF,100:39FF14&height=100&section=footer"/>
